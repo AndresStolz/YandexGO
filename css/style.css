@@ -33,17 +33,17 @@ section {
 
 @font-face {
   font-family: 'YS Text Regular';
-  src: url(/fonts/text-regular.woff);
+  src: url(../fonts/text-regular.woff);
 }
 
 @font-face {
   font-family: 'YS Text Medium';
-  src: url(/fonts/text-medium.woff);
+  src: url(../fonts/text-medium.woff);
 }
 
 @font-face {
   font-family: 'YS Text Black';
-  src: url(/fonts/text-black.woff);
+  src: url(../fonts/text-black.woff);
 }
 
 a, .text__regular {
@@ -116,7 +116,7 @@ a, .text__regular {
   width: 744px;
   height: 618px;
   transform: rotate(-8.01deg);
-  background: url(/img/smkt.webp);
+  background: url(../img/smkt.webp);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -137,7 +137,7 @@ a, .text__regular {
   display: block;
   width: 178px;
   height: 53px;
-  background-image: url(/img/Yandex_Go.svg);
+  background-image: url(../img/Yandex_Go.svg);
   background-size: contain;
   background-repeat: no-repeat;
   margin-bottom: 62px;
@@ -235,22 +235,22 @@ a, .text__regular {
 }
 
 .item1 {
-  background-image: url(/img/adv_icon1.svg);
+  background-image: url(../img/adv_icon1.svg);
   background-repeat: no-repeat;
 }
 
 .item2 {
-  background-image: url(/img/adv_icon2.svg);
+  background-image: url(../img/adv_icon2.svg);
   background-repeat: no-repeat;
 }
 
 .item3 {
-  background-image: url(/img/adv_icon3.svg);
+  background-image: url(../img/adv_icon3.svg);
   background-repeat: no-repeat;
 }
 
 .item4 {
-  background-image: url(/img/adv_icon4.svg);
+  background-image: url(../img/adv_icon4.svg);
   background-repeat: no-repeat;
 }
 
@@ -318,25 +318,25 @@ a, .text__regular {
 }
 
 .exc__img1 {
-  background-image: url(/img/01.webp);
+  background-image: url(../img/01.webp);
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .exc__img2 {
-  background-image: url(/img/02.webp);
+  background-image: url(../img/02.webp);
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .exc__img3 {
-  background-image: url(/img/03.webp);
+  background-image: url(../img/03.webp);
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .exc__img4 {
-  background-image: url(/img/04.webp);
+  background-image: url(../img/04.webp);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -353,7 +353,7 @@ a, .text__regular {
   position: absolute;
   top: 304px;
   left: -200px;
-  background: url(/img/pip.webp);
+  background: url(../img/pip.webp);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -364,7 +364,7 @@ a, .text__regular {
   position: absolute;
   top: 855px;
   left: 640px;
-  background: url(/img/smkt0010.png);
+  background: url(../img/smkt0010.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -375,7 +375,7 @@ a, .text__regular {
   position: absolute;
   top: 55px;
   left: 750px;
-  background: url(/img/cfee0016.webp);
+  background: url(../img/cfee0016.webp);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -413,7 +413,7 @@ a, .text__regular {
   left: 383px;
   top: -100px;
   transform: rotate(-13.16deg);
-  background: url(/img/samokat_last.webp);
+  background: url(../img/samokat_last.webp);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -442,7 +442,7 @@ a, .text__regular {
   flex-shrink: 0;
   left: 483px;
   top: 100px;
-  background: url(/img/tabletka.webp);
+  background: url(../img/tabletka.webp);
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -483,7 +483,7 @@ a, .text__regular {
   height: 600px;
   transform: rotate(-8.983deg);
   flex-shrink: 0;
-  background: url(/img/smkt__club.webp);
+  background: url(../img/smkt__club.webp);
   background-size: contain;
   background-repeat: no-repeat;
 }
